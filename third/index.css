@@ -1,0 +1,46 @@
+.main-header {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(201, 201, 201);
+    padding-top: 10px;
+}
+
+.box {
+    height: 85px;
+    width: 85px;
+    background-color: rgb(76, 125, 216);
+    margin: 0px 0px 10px 20px;
+}
+
+.content-container {
+    height: 250px;
+    width: 100%;
+    background-color: white;
+}
+
+.content {
+    font-family: sans-serif;
+    text-align: left;
+    margin: 120px 50px 100px 50px;
+}
+
+div {
+    height: 100px;
+    width: 100%;
+}
+
+.item-1 {
+    background-color: rgb(76, 125, 216);
+}
+
+.item-2 {
+    background-color: rgba(98, 245, 201, 0.877);
+}
+
+.item-3 {
+    background-color: rgb(208, 253, 141);
+}
+
+.item-4 {
+    background-color: rgb(255, 252, 47);
+}
